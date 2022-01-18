@@ -2,14 +2,14 @@
 
 ## Introduction
 
-Thank you for participating in the Golang Bootcamp course!
+Thank you for participating in the GO Bootcamp course!
 Here, you'll find instructions for completing your certification.
 
 ## The Challenge
 
-The purpose of the challenge is for you to demonstrate your Golang skills. This is your chance to show off everything you've learned during the course!!
+The purpose of the challenge is for you to demonstrate your GO skills. This is your chance to show off everything you've learned during the course!!
 
-You will build and deliver a whole Golang project on your own. We don't want to limit you by providing some fill-in-the-blanks exercises, but instead request you to build it from scratch.
+You will build and deliver a whole GO project on your own. We don't want to limit you by providing some fill-in-the-blanks exercises, but instead request you to build it from scratch.
 We hope you find this exercise challenging and engaging.
 
 The goal is to build a REST API which must include:
