@@ -1,4 +1,4 @@
-# Golang Bootcamp
+# Go Bootcamp
 
 ## Introduction
 
